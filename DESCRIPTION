@@ -1,0 +1,9 @@
+Package: jmcpackage
+Title: Paquete de prueba con funciones sueltas
+Description: Creado para la práctica del módulo 7 del Programa "Experto en Data Science" de la U-Tad
+Version: 0.1
+Author: José Manuel de la Cuétara <jm.delacuetara.gmail.com>
+Description: What the package does (one paragraph).
+Depends: R (>= 3.2.0)
+License: jmc[p]
+LazyData: true
